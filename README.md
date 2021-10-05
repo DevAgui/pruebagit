@@ -11,4 +11,4 @@ Los gases de efecto invernadero, con toda probabilidad, están relacionadas, ent
 
 Aquí pondré la foto del pulpogato
 
-<img src="img/github-octocat.png" width="200px">
+<img src="mi_carpeta/img/historia_octocat.jpg" width="200px">
